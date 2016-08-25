@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Sostec - sito</title>
+</head>
+<body>
+    <h1>Sito pubblico Sostec</h1>
+    {% for Person in people %}
+        <img src="{{ Person.immagine }}" />
+        <p>{{ Person.nome }}</p>
+        <p>{{ Person.email }}</p>
+        <p>{{ Person.titolo }}</p>
+    {% endfor %}
+</body>
+</html>
