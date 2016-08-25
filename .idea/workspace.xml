@@ -1,29 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="911f40b9-30ff-4bd5-9b4d-9335436e8d2a" name="Default" comment="Configurazione editor PyCharm">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebSostec/sito/static/img/person_female_01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebSostec/sito/static/img/person_female_02.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebSostec/sito/static/img/person_male_01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebSostec/sito/static/img/person_male_02.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebSostec/sito/static/img/person_male_03.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebSostec/sito/static/img/person_male_04.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebSostec/sito/fixtures/team.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebSostec/sito/migrations/0001_initial.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebSostec/sito/migrations/0002_person_immagine.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebSostec/sito/templates/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebSostec/sito/urls.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WebSostec/db.sqlite3" afterPath="$PROJECT_DIR$/WebSostec/db.sqlite3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/sostec.iml" afterPath="$PROJECT_DIR$/.idea/sostec.iml" />
+    <list default="true" id="911f40b9-30ff-4bd5-9b4d-9335436e8d2a" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WebSostec/WebSostec/settings.py" afterPath="$PROJECT_DIR$/WebSostec/WebSostec/settings.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WebSostec/WebSostec/urls.py" afterPath="$PROJECT_DIR$/WebSostec/WebSostec/urls.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WebSostec/sito/admin.py" afterPath="$PROJECT_DIR$/WebSostec/sito/admin.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WebSostec/sito/models.py" afterPath="$PROJECT_DIR$/WebSostec/sito/models.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WebSostec/sito/views.py" afterPath="$PROJECT_DIR$/WebSostec/sito/views.py" />
     </list>
     <ignored path="sostec.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -519,7 +498,14 @@
       <option name="project" value="LOCAL" />
       <updated>1472131897431</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Configurazione editor PyCharm">
+      <created>1472140673391</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1472140673391</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
