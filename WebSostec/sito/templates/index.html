@@ -1,16 +1,26 @@
+{% load staticfiles %}
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <title>Sostec - sito</title>
+    <link rel="stylesheet" href="{% static 'normalize.css' %}" />
+    <link rel="stylesheet" href="{% static 'main.css' %}" />
+
 </head>
 <body>
+<main>
     <h1>Sito pubblico Sostec</h1>
-    {% for Person in people %}
-        <img src="{{ Person.immagine }}" />
-        <p>{{ Person.nome }}</p>
-        <p>{{ Person.email }}</p>
-        <p>{{ Person.titolo }}</p>
+
+    {% for person in people %}
+    <section>
+        <img src="{{ person.immagine }}" />
+        <h2>{{ person.nome }}</h2>
+        <p class="person-titolo">{{ person.titolo }}</p>
+        <p class="person-email">{{ person.email }}</p>
+    </section>
     {% endfor %}
+
+</main>
 </body>
 </html>
